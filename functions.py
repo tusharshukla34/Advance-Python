@@ -14,6 +14,7 @@ arr2 = np.arange(2, 10, 2)   # Output: [2 4 6 8]
 arr3 = np.arange(0, 1, 0.2)  # Output: [0.  0.2 0.4 0.6 0.8]
 
 """
+
 x = np.arange(1,6)
 print(x)
 
