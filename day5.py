@@ -1,0 +1,4 @@
+# numpy functions 
+
+# indexing
+# slicing
