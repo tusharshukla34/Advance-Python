@@ -1,0 +1,16 @@
+ID,Name,Age,Department,Salary,Join_Date,City,Email
+101,Alice Smith,25.0,HR,50000.0,2020-01-15,New York,alice@gmail.com
+102,Bob Jones,30.0,IT,60000.0,2019-05-20,Los Angeles,bob@yahoo.com
+103,Charlie Brown,35.0,Sales,55000.0,2021-03-10,New York,charlie@gmail.com
+104,David Wilson,40.0,IT,70000.0,2018-07-25,Chicago,david@outlook.com
+105,Eva Green,22.0,HR,48000.0,2022-01-05,Chicago,eva@gmail.com
+106,Frank White,28.0,Sales,52000.0,2020-09-12,New York,frank@yahoo.com
+107,Grace Lee,34.0,Marketing,65000.0,2019-11-01,Los Angeles,grace@gmail.com
+108,Hannah Black,,IT,,2021-06-15,Bhopal,hannah@gmail.com
+109,Ian Grey,45.0,Admin,80000.0,2017-02-28,Bhopal,ian@company.com
+110,Jane Doe,29.0,HR,51000.0,2020-04-10,New York,jane@outlook.com
+111,Alice Smith,25.0,HR,50000.0,2020-01-15,New York,alice@gmail.com
+112,Liam Scott,31.0,IT,62000.0,2019-08-08,Chicago,liam@yahoo.com
+113,Mona Lisa,27.0,Sales,54000.0,2021-12-01,Bhopal,mona@gmail.com
+114,,33.0,Marketing,66000.0,2018-03-15,Los Angeles,
+115,Oliver Twist,38.0,Admin,78000.0,2017-10-30,Chicago,oliver@company.com
